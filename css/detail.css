@@ -1,0 +1,46 @@
+#detail_section {
+    height: 2300px;
+}
+#detail_related {
+
+}
+#detail_return {
+
+}
+.detail_right {
+    position: absolute;
+    top: 304px;
+    right: 0;
+    width: 674px;
+}
+#pic01 {
+    top:274px;
+    left: 0;
+}
+#title01 {
+    top:304px;
+    right:0;
+}
+
+#sub {
+    margin-top:67px;
+}
+
+#color {
+    margin-top:40px;
+    display: block;
+    width: 667px;
+}
+
+
+#price {
+    margin-top:30px;
+    width: 667px;
+
+    display: block;
+
+}
+#btn {
+    top:730px;
+    right:0;
+}
