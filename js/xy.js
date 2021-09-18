@@ -103,121 +103,121 @@ bodyScrollBar.addListener(({ offset }) => {
     }
 
 
-    if( scrollTop >= 8400){
+    if( scrollTop >= 6400){
         $('#section03').addClass('t4')
         //    do something
 
     }
-    if( scrollTop >= 8600){
+    if( scrollTop >= 6600){
         $('#section03').addClass('s4')
         //    do something
 
     }
 
-    if( scrollTop >= 8900){
+    if( scrollTop >= 6900){
         $('#section03').addClass('p8')
         //    do something
 
     }
 
-    if( scrollTop >= 9100){
+    if( scrollTop >= 7100){
         $('#section03').addClass('p9')
         //    do something
 
     }
 
-    if( scrollTop >= 9200){
+    if( scrollTop >= 7200){
         $('#section03').addClass('c1')
         //    do something
 
     }
-    if( scrollTop >= 9910){
+    if( scrollTop >= 7910){
         $('#section03').addClass('p10')
         //    do something
 
     }
-    if( scrollTop >= 10084){
+    if( scrollTop >= 8084){
         $('#section03').addClass('p11')
         //    do something
 
     }
 
-    if( scrollTop >= 10300){
+    if( scrollTop >= 8300){
         $('#section03').addClass('b2')
         //    do something
 
     }
 
 
-    if( scrollTop >= 10981){
+    if( scrollTop >= 9300){
         $('#horizontal02').addClass('p13')
         //    do something
 
     }
-    if( scrollTop >= 10981){
+    if( scrollTop >= 9300){
         $('#horizontal02').addClass('p14')
         //    do something
 
     }
-    if( scrollTop >= 10981){
+    if( scrollTop >= 9300){
         $('#horizontal02').addClass('p15')
         //    do something
 
     }
-    if( scrollTop >= 10981){
+    if( scrollTop >= 9300){
         $('#horizontal02').addClass('p16')
         //    do something
 
     }
 
 
-    if( scrollTop >= 16200){
+    if( scrollTop >= 13200){
         $('#section04').addClass('cr')
         //    do something
 
     }
-    if( scrollTop >= 16200){
+    if( scrollTop >= 13200){
         $('#section04').addClass('t5')
         //    do something
 
     }
 
 
-    if( scrollTop >= 16900){
+    if( scrollTop >= 13900){
         $('#section04').addClass('sub4')
         //    do something
 
     }
-    if( scrollTop >= 17100){
+    if( scrollTop >= 14100){
         $('#section04').addClass('p12')
         //    do something
 
     }
-    if( scrollTop >= 17300){
+    if( scrollTop >= 14300){
         $('#section04').addClass('r')
         //    do something
 
     }
-    if( scrollTop >= 17300){
+    if( scrollTop >= 14300){
         $('#section04').addClass('s5')
         //    do something
 
     }
 
-    if (scrollTop >= 18100) {
+    if (scrollTop >= 15100) {
         $('#footer').addClass('f1');
     }
-    if (scrollTop >= 18300) {
+    if (scrollTop >= 15300) {
         $('#footer').addClass('f2');
     }
-    if (scrollTop >= 18500) {
+    if (scrollTop >= 15500) {
         $('#footer').addClass('g1');
     }
 
-    if (scrollTop >= 18700) {
+    if (scrollTop >= 15700) {
         $('#footer').addClass('f3');
     }
-    if (scrollTop >= 18900) {
+    if (scrollTop >= 15900) {
         $('#footer').addClass('c1');
     }
 

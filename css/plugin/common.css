@@ -1,3 +1,41 @@
+
+#menu{
+    width: 100vw;
+    height: 100vh;
+    background: #353030;
+    transform: translateY(100%);
+    transition: all 1s;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 99999;
+}
+#menu.on{
+    transform: translateY(0);
+}
+#menu .btn{
+    width: 50px;
+    height: 50px;
+    background: #000;
+    position: absolute;
+    right: 150px;
+    top: 150px;
+    /* cursor: pointer; */
+}
+#menu .line{
+    width: 100vw;
+    height: 1px;
+    background: #fff;
+    transform: translateX(-100%);
+    transition: all 1s 2s;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+#menu.on .line{
+    transform: translateX(0);
+}
+
 .startPoint{
     width: 50px;
     height: 50px;
@@ -98,7 +136,7 @@ section#container{
 
 
 .horizontal .item{
-    width: 120vw;
+    width: 2390px;
     height: 100%;
     position: relative;
 }
